@@ -1,0 +1,5 @@
+# csv_to_video.py itself uses only the Python 3.10+ standard library
+# plus the ffmpeg / ffprobe binaries in PATH: https://ffmpeg.org/
+#
+# Pillow is needed only for the demo image generator (make_sample.py):
+Pillow>=10.0.0
